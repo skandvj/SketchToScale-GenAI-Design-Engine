@@ -52,7 +52,7 @@ I built an experimental pipeline that respects the *structure* of a user's drawi
 ### 🚀 How to Run the Prototype
 ```bash
 # Clone the repository
-git clone [https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images.git](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images.git)
+git clone [[https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images.git](https://github.com/skandvj/SketchAI--Creates-Sketches-into-Product-Ready-Images.git)](https://github.com/skandvj/SketchToScale-GenAI-Design-Engine)
 
 # Install dependencies
 pip install -r requirements.txt
