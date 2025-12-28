@@ -36,6 +36,7 @@ I built an experimental pipeline that respects the *structure* of a user's drawi
 *Demonstration of the underlying ControlNet capability used in this PoC.*
 
 ![Sketch to Image Example](public/generated_image.png)
+
 *(Figure 1: ControlNet Scribble architecture demonstrating structural adherence.)*
 
 ---
